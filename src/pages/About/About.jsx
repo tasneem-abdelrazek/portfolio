@@ -15,7 +15,7 @@ class About extends React.Component {
     render() {
 
         return (
-            <section className="d-flex align-items-baseline flex-column flex-lg-row " id="about">
+            <section className="d-flex align-items-baseline flex-column flex-lg-row px-2" id="about">
                 <Title TitleContent="About me" />
 
                 <div className="about-content pb-4">

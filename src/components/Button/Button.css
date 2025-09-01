@@ -4,3 +4,9 @@
     background-color: black;
     border: 1px solid white;
 }
+
+@media (max-width: 560px) {
+    .myBtn {
+        padding: 8px 10px;
+    }
+}

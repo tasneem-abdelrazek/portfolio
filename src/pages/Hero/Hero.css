@@ -5,3 +5,10 @@
     background-size: cover;
     height: 55vh;
 }
+
+@media (max-width : 560px) {
+    .hero {
+        padding: 3rem;
+        height: 35vh;
+    }
+}

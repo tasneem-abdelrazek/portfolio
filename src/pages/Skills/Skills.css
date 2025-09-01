@@ -1,25 +1,45 @@
 .skills-section {
     background-color: black;
-    padding: 4rem 6rem 0;
 }
 
-.skills-top h2 {
-    font-size: 3rem;
-    margin-bottom: 2rem;
+.skills-section h2 {
+    font-size: 2.8rem;
 }
 
-.skills-top p {
-    font-size: 1.5rem;
+.skills-section p {
+    font-size: 1.1rem;
+    line-height: 1.6;
 }
 
-.skills-left {
-    padding: 1%;
+.skills-section h3 {
+    font-size: 2rem;
 }
 
-.skills-right {
-    padding: 1%;
+@media (max-width: 880px) {
+    .skills-section h2 {
+        font-size: 2rem;
+    }
+
+    .skills-section h3 {
+        font-size: 1.5rem;
+    }
+
+    .skills-section p {
+        font-size: 1rem;
+    }
 }
 
-.skills-div {
-    gap: 1%;
+@media (max-width: 480px) {
+    .skills-section h2 {
+        font-size: 1.6rem;
+    }
+
+    .skills-section h3 {
+        font-size: 1.3rem;
+    }
+
+    .skills-section p {
+        font-size: 0.95rem;
+    }
+
 }
