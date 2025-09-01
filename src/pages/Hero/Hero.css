@@ -1,0 +1,7 @@
+.hero {
+    padding: 7rem;
+    background-image: url('/background.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 55vh;
+}

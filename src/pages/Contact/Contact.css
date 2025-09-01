@@ -1,0 +1,13 @@
+.contact-section {
+    background-color: black;
+    padding: 4rem 6rem;
+}
+
+.contact-top h2 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.contact-top p {
+    font-size: 1.5rem;
+}

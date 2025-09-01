@@ -1,0 +1,25 @@
+.skills-section {
+    background-color: black;
+    padding: 4rem 6rem 0;
+}
+
+.skills-top h2 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.skills-top p {
+    font-size: 1.5rem;
+}
+
+.skills-left {
+    padding: 1%;
+}
+
+.skills-right {
+    padding: 1%;
+}
+
+.skills-div {
+    gap: 1%;
+}
