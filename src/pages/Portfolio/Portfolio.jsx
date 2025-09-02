@@ -32,7 +32,7 @@ class Portfolio extends React.Component {
             <section id="portfolio">
                 <Title TitleContent="Portfolio" />
                 <div className="container">
-                    <div className="row g-5 py-4">
+                    <div className="row g-4 py-4">
                         {projects.map((project, index) => (
                             <div key={index} className="col-12 col-md-6 col-lg-4">
                                 <PortfolioCard
