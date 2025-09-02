@@ -38,7 +38,7 @@ class Skills extends React.Component {
                 <div className="row justify-content-center">
 
                     <div className="col-12 col-lg-4 mb-4 mb-lg-0 text-center text-lg-start">
-                        <h3 className="text-white mb-2">MY FOCUS</h3>
+                        <h3 className="text-white mb-2 text-lg-center">MY FOCUS</h3>
                         <hr className="text-white mb-3"></hr>
                         <p className="text-white fs-5">Frontend Development</p>
                         <p className="text-white fs-5">UI/UX Design</p>
