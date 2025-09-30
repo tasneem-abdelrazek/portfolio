@@ -14,7 +14,7 @@ class Portfolio extends React.Component {
     render() {
 
         const projects = [
-            { title: "Portfolio (React Native)", demoLink: "https://snack.expo.dev/@tasneemabdelrazek/portfolio", githubLink: "https://snack.expo.dev/@tasneemabdelrazek/portfolio" },
+            { title: "Portfolio (React Native)", demoLink: "https://snack.expo.dev/@tasneemabdelrazek/portfolio", githubLink: "https://github.com/tasneem-abdelrazek/portfolio-react-native" },
             { title: "Portfolio", demoLink: "https://portfolio-six-delta-82.vercel.app/", githubLink: "https://github.com/tasneem-abdelrazek/portfolio" },
             { title: "Forever", demoLink: "https://forever-e-commerce-six.vercel.app/", githubLink: "https://github.com/tasneem-abdelrazek/forever-e-commerce" },
             { title: "Decoration Services", demoLink: "https://ahmed-ali-1cgb.vercel.app/", githubLink: "https://github.com/tasneem-abdelrazek/ahmed-ali" },
