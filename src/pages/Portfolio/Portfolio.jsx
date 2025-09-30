@@ -14,9 +14,11 @@ class Portfolio extends React.Component {
     render() {
 
         const projects = [
+            { title: "Portfolio (React Native)", demoLink: "https://snack.expo.dev/@tasneemabdelrazek/portfolio", githubLink: "https://snack.expo.dev/@tasneemabdelrazek/portfolio" },
             { title: "Portfolio", demoLink: "https://portfolio-six-delta-82.vercel.app/", githubLink: "https://github.com/tasneem-abdelrazek/portfolio" },
             { title: "Forever", demoLink: "https://forever-e-commerce-six.vercel.app/", githubLink: "https://github.com/tasneem-abdelrazek/forever-e-commerce" },
-            { title: "Students", demoLink: "https://students-management-crud-firebase.vercel.app/", githubLink: "https://github.com/tasneem-abdelrazek/students-management-crud-firebase" },
+            { title: "Decoration Services", demoLink: "https://ahmed-ali-1cgb.vercel.app/", githubLink: "https://github.com/tasneem-abdelrazek/ahmed-ali" },
+            { title: "Movies", demoLink: "https://movie-app-lemon-xi-44.vercel.app/", githubLink: "https://github.com/tasneem-abdelrazek/movie-app" },
             { title: "Hosto", demoLink: "https://tasneem-abdelrazek.github.io/hosto/", githubLink: "https://github.com/tasneem-abdelrazek/hosto" },
             { title: "ToTasky", demoLink: "https://tasneem-abdelrazek.github.io/totasky-landing-page/", githubLink: "https://github.com/tasneem-abdelrazek/totasky-landing-page" },
             { title: "CRUD App", demoLink: "https://tasneem-abdelrazek.github.io/crud-operations/", githubLink: "https://github.com/tasneem-abdelrazek/crud-operations" },
@@ -25,6 +27,9 @@ class Portfolio extends React.Component {
             { title: "Monac", demoLink: "https://tasneem-abdelrazek.github.io/monac/", githubLink: "https://github.com/tasneem-abdelrazek/monac" },
             { title: "Wizard", demoLink: "https://tasneem-abdelrazek.github.io/wizardz/", githubLink: "https://github.com/tasneem-abdelrazek/wizardz" },
             { title: "Coffee", demoLink: "https://tasneem-abdelrazek.github.io/coffee-shop/", githubLink: "https://github.com/tasneem-abdelrazek/coffee-shop" },
+            { title: "Students (GitHub only)", githubLink: "https://github.com/tasneem-abdelrazek/students-management-crud-firebase" },
+            { title: "Notes (GitHub only)", githubLink: "https://github.com/tasneem-abdelrazek/notes-app" },
+            { title: "Products (GitHub only)", githubLink: "https://github.com/tasneem-abdelrazek/node-products" },
         ];
 
 

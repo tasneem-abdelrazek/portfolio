@@ -16,14 +16,19 @@ class Skills extends React.Component {
             { skill: "HTML", level: 90 },
             { skill: "CSS", level: 90 },
             { skill: "JavaScript", level: 70 },
+            { skill: "TypeScript", level: 65 },
             { skill: "React", level: 85 },
+            { skill: "React Native", level: 70 },
             { skill: "Bootstrap", level: 80 },
             { skill: "Tailwind", level: 80 },
+            { skill: "Material UI", level: 50 },
+            { skill: "Firebase", level: 80 },
             { skill: "Sass", level: 60 },
             { skill: "JQuery", level: 50 },
-            { skill: "TypeScript", level: 65 },
             { skill: "Git & GitHub", level: 70 },
             { skill: "Figma", level: 60 },
+            { skill: "Node.js", level: 50 },
+            { skill: "Express", level: 50 },
         ];
 
 
