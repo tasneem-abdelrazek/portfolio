@@ -33,8 +33,8 @@ class Portfolio extends React.Component {
             { title: "Coffee", demoLink: "https://tasneem-abdelrazek.github.io/coffee-shop/", githubLink: "https://github.com/tasneem-abdelrazek/coffee-shop" },
             { title: "Students (GitHub only)", githubLink: "https://github.com/tasneem-abdelrazek/students-management-crud-firebase" },
             { title: "Notes (GitHub only)", githubLink: "https://github.com/tasneem-abdelrazek/notes-app" },
-            { title: "Products (GitHub only)", githubLink: "https://github.com/tasneem-abdelrazek/node-products" },
-            { title: "Posts (GitHub only)", githubLink: "https://github.com/tasneem-abdelrazek/project-node" },
+            { title: "Products API (GitHub only)", githubLink: "https://github.com/tasneem-abdelrazek/node-products" },
+            { title: "Posts API (GitHub only)", githubLink: "https://github.com/tasneem-abdelrazek/project-node" },
         ];
 
 
